@@ -1,0 +1,26 @@
+How to Use LRCMaker
+
+Prepare Your Files:
+
+Place a music.mp3 and a lyric.txt file in a folder.
+Ensure that both files are correctly named and located in the same folder.
+Run the Application:
+
+Execute the start.py script by running python start.py in your terminal or command prompt.
+Select the Folder:
+
+When prompted by the interface, click on the "フォルダ選択" (Select Folder) button and choose the folder containing the music.mp3 and lyric.txt.
+Play the Music:
+
+Click the "再生/一時停止" (Play/Pause) button to start the music.
+The progress bar allows you to seek through the music.
+Add Timestamps:
+
+While the music is playing, press the 'K' key whenever you want to timestamp a lyric line.
+The lyrics will be updated with the current timestamp.
+Undo Last Timestamp:
+
+If you made a mistake or want to remove a timestamp, press the 'J' key to undo the last timestamp.
+Save the LRC File:
+
+When you're done, click the "LRC保存" (Save LRC) button to save your timestamped lyrics as an LRC file.
